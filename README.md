@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shailesh singh
 - 👀 I’m interested in Competitive programming
-- 🌱 I’m currently learning Jetpack Compose
+- 🌱 I’m currently learning Backend
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me www.linkedin.com/in/shailesh-singh-544bb3229
 
