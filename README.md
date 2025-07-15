@@ -30,7 +30,7 @@
 - 💊 **Tap_Health_AI** — AI-driven diagnosis recommendation system with medical knowledge base at Intern
 - 📚 **Diabetes Care Coach** — AI coach with personas, health tracking, and personalized education for caregivers at Intern
 - 💻 **Digital Diagnostics** — Pre-diagnosis assistant with Llama3.1, ChromaDB, and Neo4j (Graph RAG)
-- 🧾 **Finance Tracker** — intuitive app to track accounts and finances, categorize income and expenses, and send automated monthly summaries featuring detailed analyses, and budget insights
+- 🧾 **Finance Tracker** — To track accounts and finances, categorize income and expenses, and send automated monthly summaries featuring detailed analyses, and budget insights
 
 Explore my pinned repositories for more 👇
 
